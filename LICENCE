@@ -1,0 +1,27 @@
+## 🔒 License
+
+**Copyright (c) 2023–2025 Achir Oukelmoun et al.**
+
+Permission is hereby granted, free of charge, to use, copy, and modify this **codebase and dataset** (and associated files) **solely for non-commercial academic research purposes**, subject to the following conditions:
+
+### 1. Non-Commercial Use Only  
+This software and dataset are provided exclusively for **non-commercial academic research**.  
+Any commercial use — including, but not limited to, product development, dataset monetization, consulting, or deploying services based on this software or dataset — is **strictly prohibited** without **prior written permission** from the authors.
+
+### 2. No Warranty  
+Both the software and dataset are provided "as is", without any warranty of any kind, express or implied.  
+The authors make no guarantees regarding accuracy, performance, completeness, or fitness for a particular purpose.  
+Users are fully responsible for any consequences resulting from their use.
+
+### 3. Liability Disclaimer  
+In no event shall the authors be held liable for any damages or losses arising from the use, misuse, or inability to use the software or dataset.
+
+### 4. Citation Requirement  
+All publications, research works, or derivative tools that use this codebase or dataset **must cite** the associated research paper (currently under review).  
+The citation will be made available upon acceptance. Until then, please refer to this repository as:
+
+> Oukelmoun et al., "Détection des omissions dans les résumés médicaux générés parles grands modèles de langue", under review, 2025.
+
+---
+
+By using this software and dataset, you acknowledge and agree to comply with all the terms stated above.
