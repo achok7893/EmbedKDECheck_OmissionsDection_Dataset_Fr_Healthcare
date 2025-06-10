@@ -68,7 +68,7 @@ Due to GDPR and French healthcare privacy laws, the use of real medical data was
 
 If you use this dataset or method, please cite the associated paper (under review):
 
-> **A Study on the Relevance of Generic Word Embeddings for Sentence Classification in Hepatic Surgery**
+> **Détection des omissions dans les résumés médicaux générés parles grands modèles de langue**
 > Authors: \[To be added]
 > Link: [https://arxiv.org/abs/your-paper-link](https://arxiv.org/abs/your-paper-link)
 
