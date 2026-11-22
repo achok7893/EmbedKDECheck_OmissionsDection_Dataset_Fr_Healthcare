@@ -1,6 +1,6 @@
 # EmbedKDECheck: Omission Detection in French Medical Summaries
 
-A French dataset of **674 fictive medical reports** and their LLM-generated summaries, each labeled for omissions, plus **EmbedKDECheck**, a lightweight, reference-free method for detecting those omissions.
+A French dataset of **more than 400 fictive medical reports** and their LLM-generated summaries, each labeled for omissions, plus **EmbedKDECheck**, a lightweight, reference-free method for detecting those omissions.
 
 📄 Paper: [Détection des omissions dans les résumés médicaux générés par les grands modèles de langue](https://arxiv.org/abs/your-paper-link) (under review)
 
